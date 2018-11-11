@@ -29,6 +29,7 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction()
 theFunk()
+console.log(theFunk())
 
 //Questions:
 //I ran the following code and it returned "FUNKY!" Why does this test not pass?
