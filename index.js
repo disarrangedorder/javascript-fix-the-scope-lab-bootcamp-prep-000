@@ -27,8 +27,8 @@ var funkyFunction = function() {
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
-var theFunk = funkyFunction()
-test()()
+var theFunk = funkyFunction()()
+
 
 //Questions:
 //I ran the following code and it returned "FUNKY!" in the console. Why does this not pass the test?
