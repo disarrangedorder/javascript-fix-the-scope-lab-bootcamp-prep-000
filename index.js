@@ -32,6 +32,7 @@ theFunk()
 console.log(theFunk())
 
 //Questions:
-//I ran the following code and it returned "FUNKY!" Why does this test not pass?
+//I ran the following code and it returned "FUNKY!" in the console. Why does this not pass the test?
 //var theFunk = funkyFunction()
+//theFunk()
 //console.log(theFunk())
