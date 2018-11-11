@@ -31,4 +31,4 @@ var theFunk = funkyFunction()
 theFunk()
 test()
 console.log(theFunk)
-console.log(add2)
+
